@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satvick</h1>
-<h3 align="center">A passionate, self-taught frontend developer from India with particular interest in frontend technologies and UI</h3>
+<h3 align="center">A passionate, self-taught Web developer from India with particular interest in frontend technologies and MERN projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvickk&label=Profile%20views&color=0e75b6&style=flat" alt="satvickk" /> </p>
 
